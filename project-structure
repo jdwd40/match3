@@ -1,0 +1,22 @@
+match3/
+├── src/
+│   ├── scenes/
+│   │   ├── game-scene.ts
+│   │   └── loading-scene.ts
+│   ├── entities/
+│   │   ├── game-board.ts
+│   │   ├── tile.ts
+│   │   └── score-display.ts
+│   ├── systems/
+│   │   ├── input-manager.ts
+│   │   └── match-checker.ts
+│   ├── constants/
+│   │   └── game-config.ts
+│   ├── types/
+│   │   └── game-types.ts
+│   └── app.ts
+├── assets/
+│   └── sprites/
+│       └── tiles.json
+├── index.html
+└── package.json 
